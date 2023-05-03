@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+besi-hollow.test	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+besi-hollow.test	TRUE	/	FALSE	1999999999	wp_woocommerce_session_37e014f2ebba85c0d648e6bd38264cd4	t_f635a2a9d83d849d4d597a87ef7d62%7C%7C1683254263%7C%7C1683250663%7C%7C0935d6104e0a0278ac98cc06e1f60abd
+besi-hollow.test	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	06453b3837217d329b6dc7fd05a8345a
+besi-hollow.test	TRUE	/	FALSE	1999999999	woocommerce_recently_viewed	339%7C362%7C367%7C361%7C341%7C368%7C364%7C369%7C363%7C370%7C366%7C342%7C340%7C365
+
